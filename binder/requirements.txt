@@ -1,4 +1,0 @@
-music21
-matplotlib
-scipy
-numpy
