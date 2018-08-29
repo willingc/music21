@@ -20,7 +20,7 @@ is available also on GitHub
 [![Build Status](https://travis-ci.org/cuthbertLab/music21.svg?branch=master)](https://travis-ci.org/cuthbertLab/music21)
 [![Coverage Status](https://coveralls.io/repos/github/cuthbertLab/music21/badge.svg?branch=master)](https://coveralls.io/github/cuthbertLab/music21?branch=master)
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/willingc/music21/binderize)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/willingc/music21/re-binder)
 
 ## Mailing list ##
 
