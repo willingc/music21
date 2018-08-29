@@ -2,3 +2,5 @@ music21
 matplotlib
 scipy
 numpy
+libpng=1.6.27
+pyqt
