@@ -1,4 +1,1 @@
-#!/bin/bash
-
-# Install a path for music21 to put musescore
-export PATH="/usr/music21:$PATH"
+export PATH="/usr/games:$PATH"
