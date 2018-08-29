@@ -1,7 +1,8 @@
 dependencies:
-  - music21
   - matplotlib
   - scipy
   - numpy
   - pyqt
   - libpng
+  - pip:
+    - music21
