@@ -1,10 +1,10 @@
 musescore
 lilypond
 xvfb
-gtk-engines-pixbuf
+gtk2-engines-pixbuf
 xfonts-cyrillic
 xfonts-100dpi
-xfonts-75ddpi
+xfonts-75dpi
 xfonts-base
 xfonts-scalable
 eog
